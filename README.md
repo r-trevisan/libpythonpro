@@ -5,6 +5,10 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link para o Curso [Python Pro](https://pythonpro.com.br/)
 
+
+[![Updates](https://pyup.io/repos/github/r-trevisan/libpythonpro/shield.svg)](https://pyup.io/repos/github/r-trevisan/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/r-trevisan/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/r-trevisan/libpythonpro/)
+
 Suportada versão 3.9 de Python
 
 Para instalar:
