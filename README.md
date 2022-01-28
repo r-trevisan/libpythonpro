@@ -11,15 +11,17 @@ Link para o Curso [Python Pro](https://pythonpro.com.br/)
 
 Suportada versão 3.9 de Python
 
-Para instalar:
+Para instalar:\
+`python3 -m venv .venv`
 
-python3 -m venv .venv \
-.venv/Scripts/activate\
-pip install -r requirements-dev.txt
+`.venv/Scripts/activate`
+
+`pip install -r requirements-dev.txt`
+
 
 Para conferir qualidade de código:
 
-flake8
+`flake8`
 
 Tópicos a serem abordados:
 
