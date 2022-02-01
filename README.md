@@ -8,6 +8,7 @@ Link para o Curso [Python Pro](https://pythonpro.com.br/)
 
 [![Updates](https://pyup.io/repos/github/r-trevisan/libpythonpro/shield.svg)](https://pyup.io/repos/github/r-trevisan/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/r-trevisan/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/r-trevisan/libpythonpro/)
+[![codecov](https://codecov.io/gh/r-trevisan/libpythonpro/branch/main/graph/badge.svg?token=RW8T4BSISH)](https://codecov.io/gh/r-trevisan/libpythonpro)
 
 Suportada versão 3.9 de Python
 
